@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.users-container{
+  background-color: aquamarine;
+  color: black;
+  padding: 15px;
+  border: 2px solid teal;
+  border-radius: 20px;
+  max-width: 600px;
+  margin: 10px auto;
+}
